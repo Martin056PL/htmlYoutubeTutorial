@@ -1,0 +1,1 @@
+alert("Yo nijnas, welcome to my webside");
